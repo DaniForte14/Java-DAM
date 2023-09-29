@@ -8,13 +8,6 @@ public class ProgramaPrincipal {
 
         System.out.println("Introduce el mes:");
         int numeroMes = sc.nextInt();
-
-       
-        //if (numeroMes < 1 || numeroMes > 12) {
-        //    System.out.println("La fecha introducida es incorrecta.");
-        //    return;
-        //} 
-
         System.out.println("Introduce el día:");
         int numeroDia = sc.nextInt();
 
